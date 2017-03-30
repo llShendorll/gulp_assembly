@@ -1,7 +1,7 @@
-#Учебная сборка Loftschool (выпускной проект №1) 
+#Учебная сборка
 
 Stack:
- - Gulp 4.0
+ - Gulp 4.0 "npm install gulpjs/gulp#4.0"
  
 Getting started:
 
