@@ -1,7 +1,5 @@
 {
-  "name": "loftschool-builder",
-  "version": "1.0.0",
-  "author": "a.kalin",
+  "name": "builder",
   "license": "ISC",
   "scripts": {
     "postinstall": "bower install"
@@ -15,6 +13,7 @@
     "gulp-concat-css": "^2.2.0",
     "gulp-csso": "^2.0.0",
     "gulp-eslint": "2.0.0",
+    "gulp-iconfont": "^8.0.1",
     "gulp-load-plugins": "1.2.0",
     "gulp-notify": "2.2.0",
     "gulp-pug": "^3.0.3",
