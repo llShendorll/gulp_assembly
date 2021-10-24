@@ -2,5 +2,5 @@
 
 module.exports = [
   './node_modules/normalize.css/normalize.css',
-  //'./node_modules/jquery-ui-dist/jquery-ui.min.css'
+  './node_modules/bootstrap/dist/css/bootstrap.min.css',
 ];
